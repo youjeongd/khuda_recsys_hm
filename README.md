@@ -85,7 +85,7 @@ kaggle에서 제공하는 데이터를 통해서 판매 경향성을 알아보�
 - pyspark에서 지원하는 ALS 모델
 - 사용자 행렬과 제품 행렬을 각각 그룹화하고 모든 블록의 벡터값을 복사하여 활용하는 기존 방식과 차별화
 - 해당 특징이 유사한 경우에만 기능 벡터 값을 황용함(일부 값을 차단시켜 데이터 집합에 대한 공동의 필터링 진행)
-- <br>
+  <br>
 ![image](https://github.com/zal-eun/khuda_recsys_hm/assets/122002700/160324ba-02f4-4f2c-8bc9-9e5b26cdeb68)
 ![image](https://github.com/zal-eun/khuda_recsys_hm/assets/122002700/f731e0fb-23a0-4f87-88dd-88f331644aed)
 
